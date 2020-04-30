@@ -1,8 +1,5 @@
-# FollowMeApp
-FollowMeApp-Post
-
 ### Name
-
+ #### FollowMeApp
 ### Description
 
 ### Installation
